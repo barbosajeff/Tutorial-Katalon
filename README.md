@@ -1,4 +1,13 @@
+## Disciplina : Ferramentas de Teste de Software
+## Aluno Jefferson Barbosa 
+
+
+
+
+
 # Tutorial Katalon
+
+
 
 Neste tutorial veremos uma breve introdução sobre o  Katalon Studio, um conjunto de ferramentas  para testes de automação de aplicativos da Web, API, dispositivos móveis e desktop. 
 
@@ -76,3 +85,8 @@ Agora você verá o navegador aberto para a URL que inserimos, então basta usar
 
  Após a execução dos testes podemos observar na aba "LOG VIEWER" os resultados obtidos pelos testes.
 [FIGURA 9](https://drive.google.com/file/d/17XlGfUKl5wBlnCo1ipuEstBH5SRAOvLH/view?usp=sharing)
+
+## Video
+Para este guia, foi criado um vídeo demonstrando na prática cada passo mencionado acima
+
+link: [Video](https://drive.google.com/file/d/13HV5rTjnnYhenuy2ZtoBK5Hhfcz41XEW/view?usp=sharing)
